@@ -51,7 +51,7 @@ The user is directed to sign in to Spotify and authorize the apps access to thei
 
 
 ## Link to deployed application:
-[What's-the-Song?](https://harben31.github.io/project_1/)
+[What's-the-Song?](https://cmcunningham27.github.io/Whats-the-Song-app/)
 
 
 ## Technologies

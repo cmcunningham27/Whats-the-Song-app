@@ -53,7 +53,7 @@ let spotifyInput = searchInput.value;
 
 // --------------spotify log in redirect for GH Pages---------------
 const authFn = function(){
-    window.location.href ="https://accounts.spotify.com/authorize?client_id=e41b33aec0144df7838949fe180f754a&response_type=token&redirect_uri=https://cmcunningham27.github.io/project_1/";
+    window.location.href ="https://accounts.spotify.com/authorize?client_id=e41b33aec0144df7838949fe180f754a&response_type=token&redirect_uri=https://cmcunningham27.github.io/Whats-the-Song-app/";
     return
 };
 
